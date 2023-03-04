@@ -7,11 +7,6 @@
 	src:url(../fonts/font-awesome.otf);
 }
 
-
-@font-face{
-	font-family: myFont3;
-	src:url(../fonts/Poppins-bold.otf);
-}
 *{
 	margin: 0;
 	padding: 0;
@@ -29,7 +24,7 @@
 	justify-content: space-between;
 	padding:0px;
 	color: white;
-	font-family: myFont3;
+	font-family: myFont2;
 
 }
 
@@ -103,7 +98,7 @@ header{
 	font-size: 7vmin;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	font-family: myFont3;
+	font-family: myFont2;
 	
 
 }
